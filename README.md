@@ -5,10 +5,13 @@ Este es el repositorio del equipo 4, para el proyecto de la asignatura "Introduc
 
 ## El procedimiento para el trabajo será el siguiente:
 - La rama principal es la rama `main`. 
-- Cada miembro tendrá que clonar el repositorio de su equipo en su ordenador. ``` shell
+- Cada miembro tendrá que clonar el repositorio de su equipo en su ordenador. 
+
+``` shell
 git clone git@github.com:mkesslerct/datadive_team4.git
 ```
 - Es imprescindible, cada vez que un miembro quiera trabajar en el proyecto, que realice un `pull` desde la rama `main` del repositorio en Github a su rama `main` de su repositorio local.
+
 ``` shell
 git pull origin main
 ```
@@ -26,6 +29,7 @@ git push -u origin dev-mk
   - Al crear el pull request, tiene que escoger `dev-mk` como la rama "compare", y la rama `main`, como la rama "base"
 - Cuando el pull-request haya sido aceptado, y que el miembro que lo ha abierto haya comprobado que todos los cambios se han incorporado a la rama `main`, podrá borrar la rama `dev-mk` tanto en su repositorio local como en Github.
 Para borrar la rama `dev-mk` en el repositorio local:
+
 ``` shell
 git branch -d dev-mk
 ```
