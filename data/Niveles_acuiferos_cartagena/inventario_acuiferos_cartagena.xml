@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40"
+xmlns:u1="urn:schemas-microsoft-com:office:excel">
+ <Styles>
+ <Style ss:ID="Default" ss:Name="Normal">
+ <Alignment ss:Vertical="Bottom"/>
+ <Borders/>
+ <Font/>
+ <Interior/>
+ <NumberFormat/>
+ <Protection/>
+ </Style>
+ <Style ss:ID="BoldColumn">
+ <Font x:Family="Swiss" ss:Bold="1"/>
+ </Style>
+ <Style ss:ID="StringLiteral">
+ <NumberFormat ss:Format="@"/>
+ </Style>
+ <Style ss:ID="Decimal">
+ <NumberFormat ss:Format="0.0000"/>
+ </Style>
+ <Style ss:ID="Integer">
+ <NumberFormat ss:Format="0"/>
+ </Style>
+ <Style ss:ID="DateLiteral">
+ <NumberFormat ss:Format="mm/dd/yyyy;@"/>
+ </Style>
+ <Style ss:ID="Negrita"><Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/><Font x:Family="Swiss" ss:Size="14" ss:Bold="1"/></Style>
+</Styles>
+<Worksheet ss:Name="Hoja 1">
+<Table>
+<Row ss:Height="18">
+<Cell ss:MergeAcross="9" ss:StyleID="Negrita"><Data ss:Type="String">Resultados de la búsqueda Medidas por Piezómetro</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="BoldColumn"><Data ss:Type="String"><![CDATA[Demarcación Hidrográfica]]></Data></Cell>
+<Cell ss:StyleID="BoldColumn"><Data ss:Type="String"><![CDATA[Cod. Piezómetro]]></Data></Cell>
+<Cell ss:StyleID="BoldColumn"><Data ss:Type="String"><![CDATA[Cod. Europeo]]></Data></Cell>
+<Cell ss:StyleID="BoldColumn"><Data ss:Type="String"><![CDATA[Nombre]]></Data></Cell>
+<Cell ss:StyleID="BoldColumn"><Data ss:Type="String"><![CDATA[Cota terreno (msnm)]]></Data></Cell>
+<Cell ss:StyleID="BoldColumn"><Data ss:Type="String"><![CDATA[MASb controlada]]></Data></Cell>
+<Cell ss:StyleID="BoldColumn"><Data ss:Type="String"><![CDATA[Provincia]]></Data></Cell>
+<Cell ss:StyleID="BoldColumn"><Data ss:Type="String"><![CDATA[Municipio]]></Data></Cell>
+<Cell ss:StyleID="BoldColumn"><Data ss:Type="String"><![CDATA[Nº Medidas]]></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[Segura]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[07.31.011]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[ES070ESBT07-31-011]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[Los Cañas]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[33]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[CAMPO DE CARTAGENA]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[Murcia]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[Cartagena]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[71]]></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[Segura]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[07.31.012]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[ES070ESBT07-31-012]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[Lo de Lucas]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[24]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[CAMPO DE CARTAGENA]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[Murcia]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[Cartagena]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[89]]></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[Segura]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[07.31.101]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[ES070ESBT07-31-101]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[Los Beatos]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[30]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[CAMPO DE CARTAGENA]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[Murcia]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[Cartagena]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[229]]></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[Segura]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[07.31.212]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[ES070ESBT07-31-212]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[Cortijo de la Palma]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[37]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[CAMPO DE CARTAGENA]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[Murcia]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[Cartagena]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[107]]></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[Segura]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[07.31.218]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[ES070ESBT07-31-218]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[El Algar]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[25]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[CAMPO DE CARTAGENA]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[Murcia]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[Cartagena]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[55]]></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[Segura]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[07.31.219]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[ES070ESBT07-31-219]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[Los Beatos II]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[24]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[CAMPO DE CARTAGENA]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[Murcia]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[Cartagena]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[48]]></Data></Cell>
+</Row>
+</Table>
+ </Worksheet>
+</Workbook>
